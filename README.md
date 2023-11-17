@@ -24,6 +24,7 @@ venv\Scripts\activate
 
 ```bash
 git clone https://github.com/LebArt2321/test_task
+cd test_task
 pip install -r requirements.txt
 ```
 
