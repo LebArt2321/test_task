@@ -19,7 +19,7 @@ venv\Scripts\activate    # Для Windows
 Чтобы установить и запустить проект, выполните следующие шаги:
 
 ```bash
-https://github.com/LebArt2321/test_task
+git clone https://github.com/LebArt2321/test_task
 pip install -r requirements.txt
 ```
 
