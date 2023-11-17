@@ -9,9 +9,13 @@
 Для запуска этого проекта вам понадобится Python и pip. Вы также можете использовать virtualenv для создания изолированной среды Python.
 
 ```bash
+# Для Unix или MacOS
 python3 -m venv venv
-source venv/bin/activate # Для Unix или MacOS
-venv\Scripts\activate    # Для Windows
+source venv/bin/activate
+
+# Для Windows
+python -m venv venv
+venv\Scripts\activate    
 ```
 
 ### Установка
